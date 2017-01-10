@@ -1,0 +1,37 @@
+{{Use dmy dates|date=January 2017}}
+{{Infobox storm
+|name=January 2017 European cold wave
+|image=P za d Aracoeli, ghiaccioli alla fontana P1130785.jpg
+|caption=A frozen fountain in Rome on 7 January 2017
+|pressure=
+|lowest temperature  = {{convert|-40|°C|1}} in Russia
+|date formed=5 January 2017<ref>[http://www.severe-weather.eu/mid-range-outlook/arctic-outbreak-evolution-and-snowfall-forecast-through-next-3-days/  "Arctic outbreak evolution and snowfall forecast, Jan 5-7, 2017", ''Severe Weather Europe'', 5 January 2017]</ref>
+|maximum amount=
+|total fatalities=> 20
+|stormtype=Cold wave
+|areas affected=[[Eastern Europe]], [[Central Europe]], [[Italy]]
+}}
+A period of exceptionally cold and snowy weather in January 2017 caused over 20 deaths in [[Eastern Europe|Eastern]] and [[Central Europe]]. In some areas, flights and shipping services were suspended, and there was major disruption to power supplies and other essential infrastructure.<ref name="guardian 090117">{{cite news |author=Kevin Rawlinson|title= Freezing conditions cause death and chaos across Europe|url=https://www.theguardian.com/weather/2017/jan/08/freezing-conditions-cause-death-and-chaos-across-europe|newspaper=The Guardian |location= London|date=9 January 2017 |access-date=9 January 2017 }}</ref> The weather was the result of stationary [[High-pressure area|high pressure]] over [[western Europe]], resulting in strong winds circulating from eastern Russia towards eastern Europe.<ref name="aljazeera 070117">{{cite news |author=Everton Fox|title= Winter digs in across Central and Eastern Europe|url=http://www.aljazeera.com/news/2017/01/winter-digs-central-eastern-europe-170107092025356.html|newspaper=Al Jazeera |location= |date=7 January 2017 |access-date=9 January 2017 }}</ref>
+
+== Affected areas ==
+It was reported that ten people died from the cold on 8 January in Poland, when temperatures fell below {{convert|-20|C}}.<ref name="telegraph 090117">{{cite news |author=|title=Snowstorms hold mainland Europe in an icy grip as scores succumb to bitterly cold weather  |url=http://www.telegraph.co.uk/news/2017/01/07/snowstorms-hold-mainland-europe-icy-grip-scores-succumb-bitterly/|newspaper=The Daily Telegraph |location= London|date=9 January 2017 |access-date=9 January 2017 }}</ref> Free public transport was provided in [[Warsaw]] and [[Kraków]] as a result of the [[smog]] resulting from the cold weather.<ref name="bbc 090117">{{cite news |author=<!--Staff writer(s); no by-line.--> |title= Europe cold weather death toll rises|url=http://www.bbc.co.uk/news/world-europe-38554357 |publisher=BBC News |date=9 January 2017 |access-date=9 January 2017 }}</ref> Seven cold-related deaths have been reported in Italy, mainly of homeless people,<ref name="bbc 090117"/> and parts of the country have experienced exceptional falls of snow, high winds and freezing temperatures. Several airports were closed, including those in [[Sicily]], [[Bari]] and [[Brindisi]].<ref name="bbc 090117"/> Ice formed on the [[Adriatic Sea]],<ref name="guardian 090117"/> and schools in the south of the country were closed.<ref name="telegraph 090117"/><ref>{{cite web |url=http://forbeautifullife.com/cold-wave-kills-at-least-20-across-europe/ |title=Cold wave kills at least 20 across Europe |publisher=Forbeautifullife.com |date=9 January 2017}}</ref>
+
+Six deaths from the cold were reported in the Czech Republic, mainly of homeless people.<ref name="bbc 090117"/> The bodies of three migrants were found near the border between Bulgaria and Turkey.<ref name="bbc 090117"/><ref name="guardian 090117"/> [[Médecins Sans Frontières]] has raised concerns about the risk to migrants, especially around 2,000 people living in [[Belgrade]].<ref name="bbc 090117"/> The [[Bosphorus]] was closed to shipping after a snowstorm which also affected services in [[Istanbul]], Turkey, where more than 650 flights were grounded.<ref name="bbc 090117"/><ref name="guardian 090117"/><ref name="telegraph 090117"/> Blizzards in Bulgaria also affected parts of Romania and Ukraine,<ref name="aljazeera 070117"/> and shipping on the [[Danube]] was suspended.<ref name="bbc 090117"/><ref name="guardian 090117"/> 
+
+Temperatures fell to {{convert|-15|C}} in Greece. One migrant died of cold, and many migrants on islands in the [[Aegean Sea]] were moved into heated tents as the area was covered in snow.<ref name="bbc 090117"/> Road transport in the country has also been disrupted. Deaths have also been reported from Russia and Ukraine. Temperatures in some parts of Russia fell to below {{convert|-40|C}} and 7 January was reported to be the coldest [[Orthodox Christmas]] in [[Moscow]] in over 120 years.<ref name="bbc 090117"/>
+
+==Temperature records==
+[[File:Погода в Москве в ночь с 06.01.2017 на 07.01.2017.jpg|thumb|right|−26.7 °C in Moscow during night on January 7]]
+
+On 7 January, the polar [[air mass]] extended from Russia across the [[Balkans]], resulting in deep snow in Greece and strong [[Bora (wind)|bora]] winds affecting [[Croatia]] in particular.  In addition, heavy snow in central Italy was the result of cold air flowing across the warmer Adriatic Sea.<ref>{{cite web | url =http://www.severe-weather.eu/recent-events/review-of-arctic-outbreak-with-lots-of-snow-across-balkan-peninsula-and-italy-jan-5-8-2017/|title=Review of arctic outbreak with extreme cold, severe Bora winds and lots of snow across Balkan peninsula and S-CNTRL Italy, Jan 5-8, 2017|work=Severe Weather Europe| date=8 January 2017| accessdate =10 January 2017}}</ref>  Temperatures in some parts of Russia fell to below {{convert|-40|C}} and 7 January was reported to be the coldest [[Orthodox Christmas]] in [[Moscow]] for 120 years,<ref name="bbc 090117"/> at {{convert|-29.9|C}}. The lowest temperature in western Europe was recorded in the Swiss village of [[La Brevine]], also at −29.9 °C on 6 January.<ref>{{cite web | url =http://www.independent.co.uk/news/world/europe/europe-weather-winter-snow-freezing-temperatures-multiple-deaths-travel-chaos-belgium-poland-italy-a7515351.html|title=Freezing temperatures cause multiple deaths and travel chaos across Europe|work=The Independent| date=7 January 2017| accessdate =10 January 2017}}</ref> On 8 January a low temperature record for this day in Hungary was set in the village of [[Tésa]], at {{convert|-28.1|C}}.<ref>{{cite web | url =http://hungarytoday.hu/news/cold-winter-hits-hungary-temperature-sinks-ime-record-low-64741|title=Hungary Freezes In Coldest Days Of Winter So Far As Temperature Sinks To Record Low|publisher=Hungary Today| date=9 January 2017| accessdate =10 January 2017}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Cold wave}}
+
+[[Category:2017 meteorology]]
+[[Category:2017 natural disasters]]
+[[Category:Cold waves in Europe]]
+[[Category:January 2017 events in Europe]]
+
